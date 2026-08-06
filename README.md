@@ -1,3 +1,6 @@
+# Work done by
+Venkata Prabhath (23BDS0168)
+
 # Exploratory Data Analysis (EDA) - Credit Card Dataset
 
 An end-to-end exploratory data analysis project performed on a Credit Card dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn.
